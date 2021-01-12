@@ -86,7 +86,6 @@ class MusicSchool:
 	# Add your methods below this line
 
 
-
 # Create the instance
 
 
